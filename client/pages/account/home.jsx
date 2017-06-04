@@ -46,7 +46,7 @@ class HomePage extends React.Component {
             <section className="section-home container">
                 <div className="row">
                     <div className="col-sm-7">
-                        <h1 className="page-header">My account</h1>
+                        <h1 className="page-header">My account1</h1>
                         <div className="row">
                             <div className="col-sm-4">
                                 <div className="well text-center">
